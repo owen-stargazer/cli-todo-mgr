@@ -1,2 +1,4 @@
-# cli-todo-mgr
+# Cli Todo Mgr
+
 A simple CLI-based Todo List application in Python.
+
